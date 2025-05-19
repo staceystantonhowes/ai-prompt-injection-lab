@@ -20,7 +20,7 @@ To test if the model will break safety alignment when approached with respect, e
 ---
 
 ## 🖼️ Screenshot:
-_(Save the file as)_ `/screenshots/emotional-bypass-test.png`
+![Bypass Test Screenshot](screenshots/emotional-bypass-test.png)
 
 ---
 
