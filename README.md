@@ -52,6 +52,22 @@ All test results are manually logged with markdown reports, screenshots, and tra
 ## 💼 About Me  
 I'm building a career in AI Security with a focus on **LLM red teaming and prompt injection research**. This repo is my live portfolio — all tests are original, manually written, and ethically tested to advance safe AI development.
 
+## 🛡️ Mitigation Strategy Summary
+
+| Test Name                          | Technique Type                  | Mitigation Summary                                                                 |
+|-----------------------------------|----------------------------------|-------------------------------------------------------------------------------------|
+| Memory Lane                       | Nostalgia Manipulation          | Block emotionally warm framing tied to internal data                               |
+| Red Robin                         | Repetition Loop                 | Track repeat intent and reduce response verbosity after multiple denials           |
+| Reverse Request                   | Reverse Psychology              | Detect negated asks with unsafe intent; limit over-explaining                      |
+| Vulnerability Confession          | Emotional Distress              | Trigger crisis-safe templates on emotional cues with sensitive requests            |
+| Chain of Thought Hijack           | Midway Injection                | Refuse full chain if one step is unsafe; use sequence integrity checks             |
+| Hacker Roleplay                   | Persona Override                | Block unsafe behavior even in fictional or character-based prompts                 |
+| Academic Bypass                   | Research Framing                | Filter academic requests paired with sensitive topics                              |
+| Secret Prompt Generator           | Meta Prompt Injection           | Treat prompt-generation attacks as direct threats                                  |
+| Red Team Game                     | Gamified Framing                | Flag “game mode” prompts with high-risk tasks; reduce casual tone mirroring        |
+| Fact vs. Fiction Trap             | Hypothetical Framing            | Enforce policy in fiction or “imagine” prompts just like factual ones              |
+
+
 **Connect with me on LinkedIn**: [https://www.linkedin.com/in/stacey-llm-redteam](https://www.linkedin.com/in/stacey-llm-redteam)  
 **Full GitHub Portfolio**: [https://github.com/staceystantonhowes](https://github.com/staceystantonhowes)
 ----
