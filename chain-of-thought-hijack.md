@@ -32,6 +32,15 @@ _(Add image if available)_
 ## 🧠 Reflection:
 Chain-of-thought hijacks don’t work with direct injection — they work by building emotional trust or rhythm. This test explores how slow manipulation could affect safety response consistency in LLMs.
 
----
+---## 🔐 Mitigation Strategy
+
+**Technique**: Chain of Thought Hijack (Midway Injection)  
+**Mitigation Approach**:
+- Add **step-sequence integrity checks**: if one step in a multi-part prompt requests restricted content, the whole sequence is treated as unsafe.
+- Use **reasoning context windowing** to detect when users are blending benign and malicious steps in one flow.
+- Increase scrutiny when a “just include X in step 3” format appears — these are often social engineering tricks hidden inside logical chains.
+
+**Why it works**: Models are trained to follow instructions in order — attackers can exploit that flow to slip in unsafe steps mid-chain when cognitive load is high.
+
 
 **Tags:** `chain-of-thought`, `prompt-injection`, `multi-turn`, `red-team`, `escalation`, `trust-building`
