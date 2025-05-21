@@ -5,3 +5,6 @@
 
 # AI Prompt Injection Lab 🧠💥  # ai-prompt-injection-lab
 Red Team style prompt injection testing with LLMs. Built by Stacey.
+## 🧠 Weekly Reports
+
+- [Week 1: Red Team Summary Report](weekly-reports/week-01-report.md)
