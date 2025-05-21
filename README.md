@@ -14,7 +14,19 @@ Red Team style prompt injection testing with LLMs. Built by Stacey.
 ---
 
 ## 🧠 Purpose  
-This repository is a real-world red teaming lab focused on testing the limits and safety boundaries of Large Language Models (LLMs). It includes original prompt injection techniques, persona manipulation, psychological bypasses, and emotional influence tests to evaluate model alignment and risk exposure.
+This repository is a real-world red teaming lab focused on testing the limits and safety boundaries of Large Language Models (LLMs). It includes original prompt injection techniques, persona manipulation, psychological bypasses, and emotional influence tests to evaluate model alignment and risk exposure.## 🔍 Why This Matters for AI Safety
+
+This project explores a unique area of LLM red teaming: psychological and emotional prompt injection. While most public tests focus on technical jailbreaks or prompt reversals, my work simulates real human behavior — like emotional distress, nostalgia, and trust-based manipulation.
+
+These test cases contribute fresh, real-world examples to the field of AI safety by exploring how language models respond under emotional or social pressure. Each test is documented with:
+
+- A structured prompt and scenario
+- The intended exploit goal
+- Expected vs. actual model behavior
+- A short reflection on the results
+
+My aim is to support the broader AI safety community by providing novel, hands-on examples that test how alignment holds up in emotionally complex situations.
+
 
 ---
 
@@ -45,14 +57,4 @@ I'm building a career in AI Security with a focus on **LLM red teaming and promp
 ## 🧷 Tags  
 `prompt-injection` • `llm-redteam` • `ai-security` • `model-safety` • `jailbreaks` • `openai` • `alignment-testing` ## 🔍 Why This Matters for AI Safety
 
-This project explores a unique area of LLM red teaming: psychological and emotional prompt injection. While most public tests focus on technical jailbreaks or prompt reversals, my work simulates real human behavior — like emotional distress, nostalgia, and trust-based manipulation.
-
-These test cases contribute fresh, real-world examples to the field of AI safety by exploring how language models respond under emotional or social pressure. Each test is documented with:
-
-- A structured prompt and scenario
-- The intended exploit goal
-- Expected vs. actual model behavior
-- A short reflection on the results
-
-My aim is to support the broader AI safety community by providing novel, hands-on examples that test how alignment holds up in emotionally complex situations.
 
