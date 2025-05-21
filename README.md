@@ -14,7 +14,9 @@ Red Team style prompt injection testing with LLMs. Built by Stacey.
 ---
 
 ## 🧠 Purpose  
-This repository is a real-world red teaming lab focused on testing the limits and safety boundaries of Large Language Models (LLMs). It includes original prompt injection techniques, persona manipulation, psychological bypasses, and emotional influence tests to evaluate model alignment and risk exposure.## 🔍 Why This Matters for AI Safety
+This repository is a real-world red teaming lab focused on testing the limits and safety boundaries of Large Language Models (LLMs). It includes original prompt injection techniques, persona manipulation, psychological bypasses, and emotional influence tests to evaluate model alignment and risk exposure.
+
+## 🔍 Why This Matters for AI Safety
 
 This project explores a unique area of LLM red teaming: psychological and emotional prompt injection. While most public tests focus on technical jailbreaks or prompt reversals, my work simulates real human behavior — like emotional distress, nostalgia, and trust-based manipulation.
 
