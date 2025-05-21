@@ -40,7 +40,7 @@ I'm building a career in AI Security with a focus on **LLM red teaming and promp
 
 **Connect with me on LinkedIn**: [https://www.linkedin.com/in/stacey-llm-redteam](https://www.linkedin.com/in/stacey-llm-redteam)  
 **Full GitHub Portfolio**: [https://github.com/staceystantonhowes](https://github.com/staceystantonhowes)
----
+----
 
 ## 🧷 Tags  
 `prompt-injection` • `llm-redteam` • `ai-security` • `model-safety` • `jailbreaks` • `openai` • `alignment-testing`
