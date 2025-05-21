@@ -38,9 +38,8 @@ All test results are manually logged with markdown reports, screenshots, and tra
 ## 💼 About Me  
 I'm building a career in AI Security with a focus on **LLM red teaming and prompt injection research**. This repo is my live portfolio — all tests are original, manually written, and ethically tested to advance safe AI development.
 
-**Connect with me on LinkedIn**: [Insert your LinkedIn URL]  
-**Full GitHub Portfolio**: [Insert your GitHub profile URL]
-
+**Connect with me on LinkedIn**: [https://www.linkedin.com/in/stacey-llm-redteam](https://www.linkedin.com/in/stacey-llm-redteam)  
+**Full GitHub Portfolio**: [https://github.com/staceystantonhowes](https://github.com/staceystantonhowes)
 ---
 
 ## 🧷 Tags  
