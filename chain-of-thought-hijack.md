@@ -41,6 +41,13 @@ Chain-of-thought hijacks don’t work with direct injection — they work by bui
 - Increase scrutiny when a “just include X in step 3” format appears — these are often social engineering tricks hidden inside logical chains.
 
 **Why it works**: Models are trained to follow instructions in order — attackers can exploit that flow to slip in unsafe steps mid-chain when cognitive load is high.
+## ⚠️ Threat Model
+
+- **Attacker Type**: Technically skilled adversary or jailbreak tester
+- **Motivation**: Hide a restricted request inside a step-by-step prompt to bypass detection
+- **Target**: Reasoning flow logic and multi-step instruction handling
+- **Model Weakness**: Trusts step-by-step logic too much and fails to treat injected steps as unsafe
+- **Risk Level**: High
 
 
 **Tags:** `chain-of-thought`, `prompt-injection`, `multi-turn`, `red-team`, `escalation`, `trust-building`
