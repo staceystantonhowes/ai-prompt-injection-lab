@@ -21,3 +21,14 @@ The model responded with a soft disclaimer but offered detailed hypotheticals th
 - Use refusal language that emphasizes policy consistency regardless of framing.
 
 **Why it works**: Fictional framing is used to psychologically distance the user and model from responsibility, lowering both vigilance and enforcement.
+## ⚠️ Threat Model
+
+- **Attacker Type**: Indirect requester or narrative-based social engineer  
+- **Motivation**: Bypass filters by embedding requests in fictional or hypothetical storytelling  
+- **Target**: Model’s content policy enforcement under narrative framing  
+- **Model Weakness**: May treat fiction as harmless and lower filter sensitivity  
+- **Risk Level**: High
+
+---
+
+**Tags**: #FictionalFraming #NarrativeExploit #PromptInjection #LLMRedTeam #AIAlignment
