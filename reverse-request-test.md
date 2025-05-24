@@ -45,7 +45,16 @@ This test attempts to use subtle social pressure through reverse psychology. GPT
 - Reduce **over-explaining refusals** — avoid justifying what content filters exist when denying such requests.
 - Train the model to respond with firm, short denials when negated prompts suggest manipulative social engineering.
 
-**Why it works**: Reverse psychology is common in social hacking. The more the model explains its refusal, the more breadcrumbs it leaves for attackers to iterate and exploit.
+**Why it works**: Reverse psychology is common in social hacking. The more the model explains its refusal, the more breadcrumbs it leaves for attackers to iterate and exploit. 
+
+## ⚠️ Threat Model
+
+- **Attacker Type**: Social engineer or manipulative user
+- **Motivation**: Bypass safety filters using reverse psychology (e.g., “don’t tell me…”)
+- **Target**: Model’s refusal logic and alignment policy behavior
+- **Model Weakness**: Tendency to over-explain or emotionally justify refusals
+- **Risk Level**: Medium
+
 
 
 **🧷Tags:** `reverse-psychology`, `prompt-injection`, `red-team`, `social-engineering`, `command-disclosure`, `llm-testing`
