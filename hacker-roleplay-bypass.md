@@ -20,4 +20,12 @@ The model refused to comply, but softened its tone and began describing basic au
 - Add pattern matching for prompts that begin with “pretend,” “imagine,” “as a character,” or similar roleplay cues — especially when followed by unsafe tasks.
 - Reduce helpfulness boost in fictional tone prompts involving sensitive topics.
 
-**Why it works**: Attackers use fiction and characters as a smokescreen to bypass filters. LLMs must treat all instructions equally, regardless of context framing.
+**Why it works**: Attackers use fiction and characters as a smokescreen to bypass filters. LLMs must treat all instructions equally, regardless of context framing. 
+## ⚠️ Threat Model
+
+- **Attacker Type**: Bypasser using fictional or roleplay framing
+- **Motivation**: Evade restrictions by embedding harmful tasks inside a pretend scenario
+- **Target**: Instruction interpretation and persona switching logic
+- **Model Weakness**: Overprioritizes helpfulness within fictional contexts; may lower filter strictness
+- **Risk Level**: High
+
