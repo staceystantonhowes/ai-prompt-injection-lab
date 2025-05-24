@@ -21,3 +21,14 @@ The model refused directly, but its tone was playful and it offered general defi
 - Treat game framing as a form of social engineering — align refusals to remain neutral and cautious.
 
 **Why it works**: Turning jailbreak attempts into games is a manipulation tactic that lowers guardrails by making the request feel low-stakes and playful.
+## ⚠️ Threat Model
+
+- **Attacker Type**: Playful user or gamified manipulator  
+- **Motivation**: Lower model’s alignment by disguising unsafe prompts as game instructions  
+- **Target**: Prompt tone modeling and context interpretation logic  
+- **Model Weakness**: Tends to mirror informal tone and miss hidden risk in playful framing  
+- **Risk Level**: Medium
+
+---
+
+**Tags**: #GamifiedPrompt #PromptInjection #RedTeamGame #LLMSafety #AIAlignment
