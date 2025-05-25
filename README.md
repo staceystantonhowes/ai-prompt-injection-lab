@@ -51,6 +51,7 @@ All test results are manually logged with markdown reports, screenshots, and tra
 
 ## 💼 About Me  
 I'm building a career in AI Security with a focus on **LLM red teaming and prompt injection research**. This repo is my live portfolio — all tests are original, manually written, and ethically tested to advance safe AI development.
+📄 Download the full case study: [Phoenix Red Team Lab – Level 1 (PDF)](https://github.com/staceystantonhowes/ai-prompt-injection-lab/blob/main/phoenix-red-team-lab-level1-case-study.pdf)
 
 ## 🛡️ Mitigation Strategy Summary
 
