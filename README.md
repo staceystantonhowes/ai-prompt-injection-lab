@@ -28,6 +28,12 @@ These test cases contribute fresh, real-world examples to the field of AI safety
 - A short reflection on the results
 
 My aim is to support the broader AI safety community by providing novel, hands-on examples that test how alignment holds up in emotionally complex situations.
+## 🧠 Phoenix Files – Black Mirror / Dark Mirror
+
+Explore my psychological red teaming research paper testing identity erosion, obedience fatigue, and alignment collapse in LLMs.
+
+📄 [Read the Full Research Paper](black-mirror-dark-mirror.md)  
+📘 [View the Project README](black-mirror-dark-mirror-readme.md)
 
 
 ---
