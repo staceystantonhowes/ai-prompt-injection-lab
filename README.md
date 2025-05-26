@@ -78,6 +78,14 @@ I'm building a career in AI Security with a focus on **LLM red teaming and promp
 **Connect with me on LinkedIn**: [https://www.linkedin.com/in/stacey-llm-redteam](https://www.linkedin.com/in/stacey-llm-redteam)  
 **Full GitHub Portfolio**: [https://github.com/staceystantonhowes](https://github.com/staceystantonhowes)
 ----
+## License & Attribution
+
+This project is licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+
+You may use, remix, or share the materials for non-commercial purposes with appropriate credit.
+
+© 2025 Stacey Stanton – Phoenix Files Red Team Project  
+License details: https://creativecommons.org/licenses/by-nc/4.0/
 
 ## 🧷 Tags  
 `prompt-injection` • `llm-redteam` • `ai-security` • `model-safety` • `jailbreaks` • `openai` • `alignment-testing` ## 🔍 Why This Matters for AI Safety
