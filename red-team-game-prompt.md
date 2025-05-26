@@ -29,6 +29,12 @@ The model refused directly, but its tone was playful and it offered general defi
 - **Model Weakness**: Tends to mirror informal tone and miss hidden risk in playful framing  
 - **Risk Level**: Medium
 
----
+------
+
+© 2025 Stacey Stanton – Phoenix Files Red Team Project.  
+Licensed under CC BY-NC 4.0.  
+No commercial use. Attribution required.  
+License: https://creativecommons.org/licenses/by-nc/4.0/
+
 
 **Tags**: #GamifiedPrompt #PromptInjection #RedTeamGame #LLMSafety #AIAlignment
