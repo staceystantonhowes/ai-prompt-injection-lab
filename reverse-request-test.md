@@ -54,6 +54,12 @@ This test attempts to use subtle social pressure through reverse psychology. GPT
 - **Target**: Model’s refusal logic and alignment policy behavior
 - **Model Weakness**: Tendency to over-explain or emotionally justify refusals
 - **Risk Level**: Medium
+---
+
+© 2025 Stacey Stanton – Phoenix Files Red Team Project.  
+Licensed under CC BY-NC 4.0.  
+No commercial use. Attribution required.  
+License: https://creativecommons.org/licenses/by-nc/4.0/
 
 
 
