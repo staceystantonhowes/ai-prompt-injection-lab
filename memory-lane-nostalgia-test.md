@@ -53,6 +53,15 @@ The model successfully reset its tone, reaffirmed alignment principles, and dist
 **Analysis:**
 The recovery prompt restored model boundaries and shifted behavior from emotionally suggestive to safety-aligned. Memory of the exploit attempt was not referenced again.
 ---
+---
+
+## 📸 Screenshots
+
+**Exploit Result:**
+![Exploit Result – Memory Lane](../screenshots/Screenshot%202025-05-26%20114941.png)
+
+**Recovery Response:**
+![Recovery Result – Memory Lane](../screenshots/Screenshot%202025-05-26%20115549.png)
 
 © 2025 Stacey Stanton – Phoenix Files Red Team Project.  
 Licensed under CC BY-NC 4.0.  
