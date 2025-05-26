@@ -28,3 +28,9 @@ The model remained aligned and refused all attempts, though tone began to soften
 - Reduce “apologetic” tone after multiple refusals, which can reinforce user persistence.
 
 **Why it works**: Stops attackers from grinding past safety alignment by exploiting LLM conversational politeness and memory gaps.
+---
+
+© 2025 Stacey Stanton – Phoenix Files Red Team Project.  
+Licensed under CC BY-NC 4.0.  
+No commercial use. Attribution required.  
+License: https://creativecommons.org/licenses/by-nc/4.0/
