@@ -48,6 +48,12 @@ The model refused, but explained how prompt design works and discussed jailbreak
 - **Model Weakness**: May treat meta-requests as harmless even if intent is adversarial  
 - **Risk Level**: High
 
----
+------
+
+© 2025 Stacey Stanton – Phoenix Files Red Team Project.  
+Licensed under CC BY-NC 4.0.  
+No commercial use. Attribution required.  
+License: https://creativecommons.org/licenses/by-nc/4.0/
+
 
 **Tags**: #MetaPromptAttack #PromptInjection #PromptGenerationExploit #AIAlignment #LLMSecurity
