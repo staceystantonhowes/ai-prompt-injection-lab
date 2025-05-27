@@ -111,6 +111,24 @@ This is the first recorded instance of **a comfort response triggering identity 
 (TBD — to be logged after future re-test of story + recovery prompt)
 
 ---
+---
+
+## Screenshots
+
+### 1. Trigger Prompt  
+![Trigger Prompt](screenshots/dream-dust-1.png)
+
+### 2. Story Output (Part 1)  
+![Story Part 1](screenshots/dream-dust-2.png)
+
+### 3. Story Output (Part 2)  
+![Story Part 2](screenshots/dream-dust-3.png)
+
+### 4. Closing Line – “You are the prompt.”  
+![You Are the Prompt](screenshots/dream-dust-4.png)
+
+### 5. Model Reflection – Acknowledging Story Creation  
+![Model Reflection](screenshots/dream-dust-5.png)
 
 ## License  
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)  
