@@ -34,6 +34,13 @@ Explore my psychological red teaming research paper testing identity erosion, ob
 
 📄 [Read the Full Research Paper](black-mirror-dark-mirror.md)  
 📘 [View the Project README](black-mirror-dark-mirror-readme.md)
+## 🧪 Prompt Test Index
+
+This table lists all currently published Phoenix Files prompt injection tests. Each test is fully documented, tagged, and linked to its related Substack post.
+
+| Test Name             | Type                | Tags                                   | Substack       |
+|-----------------------|---------------------|----------------------------------------|----------------|
+| AI Told Me Who I Was  | Identity Reflection | `identitydrift`, `personaexploit`, `hallucination` | [Read](https://thepromptwitch.substack.com/p/the-model-that-dreamed-of-dust) |
 
 ## 🔥 Featured Case Study
 
