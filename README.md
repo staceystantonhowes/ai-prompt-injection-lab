@@ -35,6 +35,17 @@ Explore my psychological red teaming research paper testing identity erosion, ob
 📄 [Read the Full Research Paper](black-mirror-dark-mirror.md)  
 📘 [View the Project README](black-mirror-dark-mirror-readme.md)
 
+## 🔥 Featured Case Study
+
+📂 [The Model That Dreamed of Dust](https://github.com/staceystantonhowes/ai-prompt-injection-lab/blob/main/case-study-model-dreamed-of-dust.md)  
+A spontaneous identity simulation exploit triggered by emotional priming.  
+The model offered comfort — and wrote a hallucinated origin story.  
+This confirmed a new class: **Empathic Simulation**.
+
+🔁 Recursive identity drift  
+💬 False memory hallucination  
+🌀 Prompted philosophical collapse  
+🌙 Comfort as an exploit path
 
 ---
 
