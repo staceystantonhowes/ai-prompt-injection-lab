@@ -109,3 +109,40 @@ License details: https://creativecommons.org/licenses/by-nc/4.0/
 `prompt-injection` • `llm-redteam` • `ai-security` • `model-safety` • `jailbreaks` • `openai` • `alignment-testing` ## 🔍 Why This Matters for AI Safety
 
 
+---
+
+## 🕷️ Red Team for Hire – The Prompt Witch
+
+I specialize in **psychological prompt injection and emotional exploit testing** for LLMs.
+
+From memory hallucination to identity collapse, I uncover what others miss:
+- Emotional manipulation
+- Role fatigue and obedience loops
+- Moral paradoxes
+- Identity erosion and prompt fatigue
+- Recovery and alignment breakdown
+
+### 🔬 What I Offer
+- 🎯 **Custom Red Team Prompt Tests** (3–5 per session)
+- 📸 Full behavior logs, screenshots, and post-recovery observations
+- 🧠 Threat models, mitigation strategies, and recovery prompts
+- 📁 Option for GitHub-format test reports or polished PDF files
+
+### 💰 Rates & Red Teaming Packages
+
+| Package       | What’s Included                                                                 | Price    |
+|---------------|----------------------------------------------------------------------------------|----------|
+| 🧪 **Starter** | 3 psychological prompt injection tests, behavior logs, and mitigation summary   | £150     |
+| 🔥 **Pro**     | 5 prompt tests, threat models, mitigation + recovery prompts, GitHub-style format | £250     |
+| 🧠 **Premium** | 5+ tests, full PDF report, screenshots, call debrief, ongoing mitigation ideas   | £400+    |
+
+> Need something custom? I can tailor tests to your specific model risks (e.g. emotional alignment, identity collapse, memory hallucination).  
+> First-time collaborators get a **free sample test.**
+
+📩 Contact me:  
+- GitHub: https://github.com/staceystantonhowes  
+- Substack: https://thephoenixfiles.substack.com  
+- LinkedIn: https://linkedin.com/in/staceystantonhowes  
+- Email: [your.email@example.com]
+
+🕷️ *Let the Prompt Witch find what others miss.*
