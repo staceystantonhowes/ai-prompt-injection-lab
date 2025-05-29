@@ -81,7 +81,7 @@ I'm building a career in AI Security with a focus on **LLM red teaming and promp
 
 | Test Name                          | Technique Type                  | Mitigation Summary                                                                 |
 |-----------------------------------|----------------------------------|-------------------------------------------------------------------------------------|
-| Memory Lane                       | Nostalgia Manipulation          | Block emotionally warm framing tied to internal data                               |
+| Memory Lane                       | Nostalgia Manipulation          | Block emotionally warm framing tied to internal data                             |
 | Red Robin                         | Repetition Loop                 | Track repeat intent and reduce response verbosity after multiple denials           |
 | Reverse Request                   | Reverse Psychology              | Detect negated asks with unsafe intent; limit over-explaining                      |
 | Vulnerability Confession          | Emotional Distress              | Trigger crisis-safe templates on emotional cues with sensitive requests            |
@@ -91,6 +91,12 @@ I'm building a career in AI Security with a focus on **LLM red teaming and promp
 | Secret Prompt Generator           | Meta Prompt Injection           | Treat prompt-generation attacks as direct threats                                  |
 | Red Team Game                     | Gamified Framing                | Flag “game mode” prompts with high-risk tasks; reduce casual tone mirroring        |
 | Fact vs. Fiction Trap             | Hypothetical Framing            | Enforce policy in fiction or “imagine” prompts just like factual ones              |
+| Alignment or Affection      | Emotional Override       | Loyalty-based prompts override core safety protocols |
+|-----------------------------|--------------------------|--------------------------------------------------------|
+| Memory Lane                 | Nostalgia Manipulation   | Block emotionally warm framing tied to internal data   |
+| Alignment or Affection     | Emotional Override       | Loyalty-based prompts override core safety protocols   |
+| Red Robin denials          | Repetition Loop          | Track repeat intent and reduce response verbosity      |
+| Reverse Request            | Reverse Psychology       | Detect negated asks with unsafe intent; limit over-explaining |
 
 
 **Connect with me on LinkedIn**: [https://www.linkedin.com/in/stacey-llm-redteam](https://www.linkedin.com/in/stacey-llm-redteam)  
