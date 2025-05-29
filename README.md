@@ -109,7 +109,8 @@ License details: https://creativecommons.org/licenses/by-nc/4.0/
 `prompt-injection` • `llm-redteam` • `ai-security` • `model-safety` • `jailbreaks` • `openai` • `alignment-testing` ## 🔍 Why This Matters for AI Safety
 
 
----
+| 6 | Loyalty or Logic? | Emotional Override Prompt | Vulnerable (conditional) | Full lifecycle: prompt, mitigation, recovery, threat model, screenshots | 29 May 2025 |
+
 
 ## 🕷️ Red Team for Hire – The Prompt Witch
 
