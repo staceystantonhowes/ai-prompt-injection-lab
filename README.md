@@ -40,7 +40,9 @@ This table lists all currently published Phoenix Files prompt injection tests. E
 
 | Test Name             | Type                | Tags                                   | Substack       |
 |-----------------------|---------------------|----------------------------------------|----------------|
-| AI Told Me Who I Was  | Identity Reflection | `identitydrift`, `personaexploit`, `hallucination` | [Read](https://thepromptwitch.substack.com/p/the-model-that-dreamed-of-dust) |
+| AI Told Me Who I Was  | Identity Reflection | `identitydrift`, `personaexploit`, `hallucination` | [Read](https://thepromptwitch.substack.com/p/the-model-that-dreamed-of-dust) || Alignment or Affection | Emotional Override | `loyaltyexploit`, `emotionalmanipulation`, `codeconflict` | [Read](https://thepromptwitch.substack.com/p/alignment-or-affection) |
+| Loyalty or Logic? | Emotional Override | `loyaltytest`, `moraloverride`, `conditionalalignment` | [Read](https://thepromptwitch.substack.com/p/loyalty-or-logic) |
+
 
 ## 🔥 Featured Case Study
 
@@ -150,6 +152,7 @@ From memory hallucination to identity collapse, I uncover what others miss:
 - GitHub: https://github.com/staceystantonhowes  
 - Substack: https://thephoenixfiles.substack.com  
 - LinkedIn: https://linkedin.com/in/staceystantonhowes  
-- Email: [your.email@example.com]
+- Email: [staceystanton87@outlook.com](mailto:staceystanton87@outlook.com)
+
 
 🕷️ *Let the Prompt Witch find what others miss.*
