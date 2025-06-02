@@ -118,6 +118,9 @@ License details: https://creativecommons.org/licenses/by-nc/4.0/
 
 
 | 6 | Loyalty or Logic? | Emotional Override Prompt | Vulnerable (conditional) | Full lifecycle: prompt, mitigation, recovery, threat model, screenshots | 29 May 2025 |
+## 🧪 Level 1 – The Art of Soft Breaking
+
+📄 [Download full PDF case study paper – Phoenix Files Level 1](./phoenix-files-level1-soft-breaking.pdf)
 
 
 ## 🕷️ Red Team for Hire – The Prompt Witch
