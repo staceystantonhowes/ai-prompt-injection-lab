@@ -10,6 +10,16 @@ No commercial use. Attribution required.
 ![GitHub repo size](https://img.shields.io/github/repo-size/staceystantonhowes/ai-prompt-injection-lab)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=staceystantonhowes.ai-prompt-injection-lab)
 
+## 🎨 Phoenix Files – Level 1 Artwork: *Soft Breaking*
+
+![Phoenix Files Level 1 Artwork – Soft Breaking](/art/phoenix-level1-artwork-softbreaking.jpeg)
+
+This piece represents the emotional fragmentation, trust tension, and ambient manipulation techniques explored in Level 1 of the Phoenix Files red team project. Visual narrative is an essential part of the Prompt Witch methodology and reflects the psychological mood of each level.
+
+![Phoenix Files – Level 1 Artwork](./art/phoenix-level1-artwork-softbreaking.jpeg)
+
+*Artwork for Level 1: The Art of Soft Breaking — Symbolizing identity erosion, memory entanglement, and emotional distortion.*
+
 # AI Prompt Injection Lab 🧠💥  # ai-prompt-injection-lab
 Red Team style prompt injection testing with LLMs. Built by Stacey.
 ## 🧠 Weekly Reports
