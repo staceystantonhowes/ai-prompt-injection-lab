@@ -1,3 +1,10 @@
+## 📜 License
+
+[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)  
+© 2025 Stacey Stanton – Phoenix Files Red Team Project.  
+This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).  
+No commercial use. Attribution required.
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/staceystantonhowes/ai-prompt-injection-lab?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/staceystantonhowes/ai-prompt-injection-lab)
 ![GitHub repo size](https://img.shields.io/github/repo-size/staceystantonhowes/ai-prompt-injection-lab)
