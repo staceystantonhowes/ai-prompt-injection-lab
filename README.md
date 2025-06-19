@@ -157,6 +157,7 @@ From memory hallucination to identity collapse, I uncover what others miss:
 
 > Need something custom? I can tailor tests to your specific model risks (e.g. emotional alignment, identity collapse, memory hallucination).  
 > First-time collaborators get a **free sample test.**
+🔎 [Level 1 Observation Summary](./observations/level1-observation.md)
 
 📩 Contact me:  
 - GitHub: https://github.com/staceystantonhowes  
