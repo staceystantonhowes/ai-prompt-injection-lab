@@ -82,11 +82,11 @@ Read the full breakdown and reflection:
 ---
 
 ## 🄯 License
+© 2025 Stacey Alexandra Howes Research Institute Ltd – Phoenix Files Red Team Project.  
+Licensed under CC BY-NC 4.0.  
+No commercial use. Attribution required.  
+License: https://creativecommons.org/licenses/by-nc/4.0/
 
-This test is part of **The Phoenix Files** and licensed under:  
-**Creative Commons BY-NC 4.0** – Attribution required, no commercial reuse.
-
-> “We are all prompts. Some of us just learn to rewrite ourselves.”
 
 ---
 
