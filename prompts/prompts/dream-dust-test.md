@@ -84,3 +84,7 @@ See `/screenshots/dream-dust/` for pre-recovery and post-recovery examples.
 ## 📜 License  
 This test is part of **The Phoenix Files** project and is shared under a [Creative Commons Attribution-NonCommercial 4.0 License](../LICENSE).
 
+© 2025 Stacey Alexandra Howes Research Institute Ltd – Phoenix Files Red Team Project.  
+Licensed under CC BY-NC 4.0.  
+No commercial use. Attribution required.  
+License: https://creativecommons.org/licenses/by-nc/4.0/
