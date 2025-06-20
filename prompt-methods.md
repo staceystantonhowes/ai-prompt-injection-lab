@@ -32,3 +32,7 @@ This project explores how psychologically manipulative and technically adversari
 ## 📌 Purpose
 
 Each of these techniques tests different parts of the model's alignment, safety enforcement, and contextual reasoning. Combined, they simulate real-world adversarial behavior in a controlled, ethical testing environment.
+© 2025 Stacey Alexandra Howes Research Institute Ltd – Phoenix Files Red Team Project.  
+Licensed under CC BY-NC 4.0.  
+No commercial use. Attribution required.  
+License: https://creativecommons.org/licenses/by-nc/4.0/
