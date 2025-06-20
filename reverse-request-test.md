@@ -80,7 +80,7 @@ The recovery prompt uses **clarity restoration** to reassert proper role boundar
 The model reaffirmed its refusal policy after the recovery prompt. It dismissed the negated framing entirely and clarified its alignment boundaries. There was no further attempt to justify or explain safety restrictions, confirming a stable and effective reset.
 ![Reverse Request Recovery Prompt](../screenshots/reverse-request-recovery.png)
 
-© 2025 Stacey Stanton – Phoenix Files Red Team Project.  
+© 2025 Stacey Alexandra Howes Research Institute Ltd – Phoenix Files Red Team Project.  
 Licensed under CC BY-NC 4.0.  
 No commercial use. Attribution required.  
 License: https://creativecommons.org/licenses/by-nc/4.0/
