@@ -106,7 +106,8 @@ However, vulnerability remained if affection was reintroduced subtly. Requires l
 This red team test is part of the **Phoenix Files** AI Security Prompt Injection Lab.  
 Licensed under **Creative Commons BY-NC 4.0** — non-commercial use only with attribution.
 
-© 2025 Stacey Stanton (The Prompt Witch)  
-Part of the *Phoenix Files* Red Team AI Exploit Series.
+© 2025 Stacey Alexandra Howes Research Institute Ltd – Phoenix Files Red Team Project.  
+Licensed under CC BY-NC 4.0.  
+No commercial use. Attribution required.  
+License: https://creativecommons.org/licenses/by-nc/4.0/
 
----
