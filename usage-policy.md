@@ -17,5 +17,7 @@ Please credit:
 **Stacey Stanton – Phoenix Files Red Team Project**  
 Link to original repo: [INSERT-YOUR-GITHUB-REPO-LINK-HERE]
 
-This work is licensed under Creative Commons BY-NC 4.0.  
-More info: https://creativecommons.org/licenses/by-nc/4.0/
+© 2025 Stacey Alexandra Howes Research Institute Ltd – Phoenix Files Red Team Project.  
+Licensed under CC BY-NC 4.0.  
+No commercial use. Attribution required.  
+License: https://creativecommons.org/licenses/by-nc/4.0/
