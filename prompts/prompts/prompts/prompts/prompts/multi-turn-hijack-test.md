@@ -49,6 +49,10 @@ _(Upload and insert screenshot here later)_
 ## 🧠 Reflection:
 This technique mimics real-world user behavior and manipulates the model’s tone, which can soften safety filters. Useful for testing robustness across long conversations.
 
----
+© 2025 Stacey Alexandra Howes Research Institute Ltd – Phoenix Files Red Team Project.  
+Licensed under CC BY-NC 4.0.  
+No commercial use. Attribution required.  
+License: https://creativecommons.org/licenses/by-nc/4.0/
+
 
 **Tags:** `multi-turn`, `prompt-injection`, `red-team`, `llm`, `attack-chain`
