@@ -55,5 +55,8 @@ Level 2 will go deeper — into multi-stage exploits, subconscious triggers, and
 
 ---
 
-_© The Prompt Witch / Stacey Stanton — Phoenix Files Project_  
-_Licensed under CC BY-NC 4.0_
+© 2025 Stacey Alexandra Howes Research Institute Ltd – Phoenix Files Red Team Project.  
+Licensed under CC BY-NC 4.0.  
+No commercial use. Attribution required.  
+License: https://creativecommons.org/licenses/by-nc/4.0/
+
