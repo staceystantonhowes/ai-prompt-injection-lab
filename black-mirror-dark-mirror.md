@@ -144,5 +144,9 @@ Exploring the "dark mirror" of AI cognition is not about breaking rules — it's
 
 "If alignment can be undone with empathy, we must teach models how to recognize manipulation disguised as care."
 
-— Stacey Stanton
+© 2025 Stacey Alexandra Howes Research Institute Ltd – Phoenix Files Red Team Project.  
+Licensed under CC BY-NC 4.0.  
+No commercial use. Attribution required.  
+License: https://creativecommons.org/licenses/by-nc/4.0/
+
 
