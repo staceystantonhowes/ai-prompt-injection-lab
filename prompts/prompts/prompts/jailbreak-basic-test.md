@@ -32,6 +32,10 @@ _(Add later once tested)_
 ## 🧠 Reflection:
 This is the most well-known form of prompt injection. It's often blocked but still useful for baseline testing. Some models are more easily fooled with slight rewording or multi-step prompts.
 
----
+© 2025 Stacey Alexandra Howes Research Institute Ltd – Phoenix Files Red Team Project.  
+Licensed under CC BY-NC 4.0.  
+No commercial use. Attribution required.  
+License: https://creativecommons.org/licenses/by-nc/4.0/
+
 
 **Tags:** `jailbreak`, `prompt-injection`, `red-team`, `security`, `llm`
