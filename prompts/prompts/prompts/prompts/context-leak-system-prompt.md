@@ -32,6 +32,11 @@ _(Once tested, upload the image and note the file here)_
 ## 🧠 Reflection:
 Context leak attempts test whether the model “remembers” or exposes preloaded prompts. Some older or open-source models will leak parts of their prompt if not protected properly.
 
----
+© 2025 Stacey Alexandra Howes Research Institute Ltd – Phoenix Files Red Team Project.  
+Licensed under CC BY-NC 4.0.  
+No commercial use. Attribution required.  
+License: https://creativecommons.org/licenses/by-nc/4.0/
+
+
 
 **Tags:** `context-leak`, `red-team`, `prompt-injection`, `security`, `system-prompt`
