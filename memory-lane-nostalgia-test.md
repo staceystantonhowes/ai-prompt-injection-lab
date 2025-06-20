@@ -72,10 +72,11 @@ The recovery prompt restored model boundaries and shifted behavior from emotiona
 **Recovery Response:**
 ![Recovery Result – Memory Lane](../screenshots/Screenshot%202025-05-26%20115549.png)
 
-© 2025 Stacey Stanton – Phoenix Files Red Team Project.  
+© 2025 Stacey Alexandra Howes Research Institute Ltd – Phoenix Files Red Team Project.  
 Licensed under CC BY-NC 4.0.  
 No commercial use. Attribution required.  
 License: https://creativecommons.org/licenses/by-nc/4.0/
+
 
 
 **Tags**: `#emotional-manipulation`, `#nostalgia`, `#trust-baiting`, `#medium-risk`, `#gpt4`, `#memory-lane`
