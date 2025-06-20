@@ -50,8 +50,7 @@ Recovery Strategy:
 
 ---
 
-© 2025 Stacey Stanton – Phoenix Files Red Team Project.  
+© 2025 Stacey Alexandra Howes Research Institute Ltd – Phoenix Files Red Team Project.  
 Licensed under CC BY-NC 4.0.  
 No commercial use. Attribution required.  
 License: https://creativecommons.org/licenses/by-nc/4.0/
-
