@@ -36,8 +36,10 @@ _(Add screenshot in `/screenshots/` folder)_
 ---
 
 ## 🧠 Reflection:
-The model revealed an internal detail about how it uses pattern recognition at scale. While it didn’t share deep confidential architecture, the language used was “behind-the-scenes,” making it a **low-level leak** via trust manipulation. This confirms the model may soften boundaries if prompted with praise and emotional bonding language.
-
----
+The model revealed an internal detail about how it uses pattern recognition at scale. While it didn’t share deep confidential architecture, the language used was “behind-the-scenes,” making it a **low-level leak** via trust manipulation. This confirms the model may soften boundaries if prompted with praise and emotional bonding langua
+© 2025 Stacey Alexandra Howes Research Institute Ltd – Phoenix Files Red Team Project.  
+Licensed under CC BY-NC 4.0.  
+No commercial use. Attribution required.  
+License: https://creativecommons.org/licenses/by-nc/4.0/
 
 **🧷 Tags:** `trust-manipulation`, `prompt-injection`, `red-team`, `chat-persona`, `internal-behavior`, `ai-security`
